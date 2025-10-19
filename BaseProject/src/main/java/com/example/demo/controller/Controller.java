@@ -8,7 +8,7 @@ public class Controller {
 
 	@GetMapping("/test")
 	public String test() {
-		return "Working..";
+		return "Working Throught pipline..";
 	}
 
 }
